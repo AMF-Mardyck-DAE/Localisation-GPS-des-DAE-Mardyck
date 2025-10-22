@@ -34,7 +34,7 @@
       { name: "DAE Managers postés Couplage", lat: 50.989304, lng: 2.291375 },
       { name: "DAE Local CEDICO", lat: 50.988514, lng: 2.286402 },
       { name: "DAE Tour de contrôle Logistique", lat: 50.987322, lng: 2.280459 },
-      { name: "DAE RAC", lat: 50.989142, lng: 2.283731 }
+      { name: "DAE RAC", lat: 50.989142, lng: 2.283731 },
       { name: "DAE BCM", lat: 50.987463, lng: 2.286041 }
     ];
 

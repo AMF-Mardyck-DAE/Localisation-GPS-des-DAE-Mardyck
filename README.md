@@ -35,7 +35,7 @@
       { name: "DAE Local CEDICO", lat: 50.988514, lng: 2.286402 },
       { name: "DAE Tour de contrôle Logistique", lat: 50.987322, lng: 2.280459 },
       { name: "DAE RAC", lat: 50.989142, lng: 2.283731 },
-      { name: "DAE BCM", lat: 50.987463, lng: 2.286041 }
+      { name: "DAE BCM", lat: 50.987463, lng: 2.286041 },
     ];
 
     // === Paramètres de navigation ===

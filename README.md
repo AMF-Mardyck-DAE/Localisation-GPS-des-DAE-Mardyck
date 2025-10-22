@@ -28,14 +28,13 @@
   </main>
 
   <script>
-    // === Vos 6 sites ===
+    // === Vos 5 sites ===
     const LOCATIONS = [
       { name: "DAE Harsco", lat: 50.98065, lng: 2.283231 },
       { name: "DAE Managers postés Couplage", lat: 50.989304, lng: 2.291375 },
       { name: "DAE Local CEDICO", lat: 50.988514, lng: 2.286402 },
       { name: "DAE Tour de contrôle Logistique", lat: 50.987322, lng: 2.280459 },
-      { name: "DAE RAC", lat: 50.989142, lng: 2.283731 },
-      { name: "DAE BCM", lat: 50.987463, lng: 2.286041 },
+      { name: "DAE RAC", lat: 50.989142, lng: 2.283731 }
     ];
 
     // === Paramètres de navigation ===
